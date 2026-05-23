@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Profile Views + Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Abhinxvsharma&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-sharma-a73981382)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhibede@gmail.com)
 
