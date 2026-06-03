@@ -146,7 +146,7 @@ abhinav = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abhinxvsharma&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhinxvsharma&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
