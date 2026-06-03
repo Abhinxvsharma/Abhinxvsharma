@@ -145,10 +145,6 @@ abhinav = {
   <img src="https://github-readme-stats.vercel.app/api?username=Abhinxvsharma&show_icons=true&theme=tokyonight" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhinxvsharma&theme=dark)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 
