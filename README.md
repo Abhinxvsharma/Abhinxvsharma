@@ -138,19 +138,9 @@ abhinav = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abhinxvsharma&theme=tokyonight&hide_border=true&fire=DD2727" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Abhinxvsharma&theme=tokyonight&hide_border=true&fire=DD2727" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhinxvsharma&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinxvsharma&theme=tokyonight" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinxvsharma&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhinxvsharma&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhinxvsharma&theme=tokyonight" />
-</p>
----
 
 ## 📈 Contribution Graph
 
