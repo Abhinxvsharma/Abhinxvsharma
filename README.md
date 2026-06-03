@@ -135,14 +135,16 @@ abhinav = {
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abhinxvsharma&theme=tokyonight" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhinxvsharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinxvsharma&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinxvsharma&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinxvsharma&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
