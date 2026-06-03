@@ -139,12 +139,12 @@ abhinav = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhinxvsharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinxvsharma&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhinxvsharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinxvsharma&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinxvsharma&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
