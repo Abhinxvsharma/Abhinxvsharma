@@ -138,8 +138,8 @@ abhinav = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Abhinxvsharma&theme=tokyonight&hide_border=true&fire=DD2727" alt="GitHub Streak" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhinxvsharma&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Abhinxvsharma&theme=tokyonight&hide_border=true&fire=DD2727" alt="GitHub Streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhinxvsharma&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ## 📈 Contribution Graph
