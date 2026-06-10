@@ -38,7 +38,7 @@ abhinav = {
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-00897B?style=for-the-badge&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-E91E63?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-E91E63?style=for-the-badge&logoColor=white)
 
 ### 🗄️ Vector Databases
 ![FAISS](https://img.shields.io/badge/FAISS-0057A8?style=for-the-badge&logoColor=white)
