@@ -110,7 +110,7 @@ abhinav = {
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="100%" colspan="2">
       <h3>💬 Sentiment Analysis</h3>
       <p>Deep learning sentiment classifier on IMDB reviews using <strong>ANN, CNN, RNN, LSTM & GRU</strong> — Best accuracy: <strong>84.75%</strong></p>
       <p>
@@ -121,19 +121,6 @@ abhinav = {
       <p>✅ 5 Model Architectures &nbsp; ✅ 84.75% GRU Accuracy</p>
       <a href="https://github.com/Abhinxvsharma/Sentiment-Analysis-Project">
         <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🔜 More Projects Coming Soon...</h3>
-      <p>Currently building more <strong>AI/GenAI projects</strong> involving agents, advanced RAG, and real-world automation tools.</p>
-      <p>
-        <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI_Agents-E91E63?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-      <p>🚧 In Progress &nbsp; 🔥 Stay Tuned</p>
-      <a href="https://github.com/Abhinxvsharma">
-        <img src="https://img.shields.io/badge/Follow_for_Updates-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
       </a>
     </td>
   </tr>
