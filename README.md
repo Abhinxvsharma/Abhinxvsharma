@@ -5,8 +5,6 @@
 
 <br/>
 
-<!-- Profile Views + Social Badges -->
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-sharma-a73981382)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhibede@gmail.com)
 
@@ -37,11 +35,14 @@ abhinav = {
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=for-the-badge&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-333333?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0057A8?style=for-the-badge&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-00897B?style=for-the-badge&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-E91E63?style=for-the-badge&logoColor=white)
+
+### 🗄️ Vector Databases
+![FAISS](https://img.shields.io/badge/FAISS-0057A8?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
 
 ### 🧠 Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -55,6 +56,10 @@ abhinav = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+### 🗃️ Databases & Query
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### 📊 ML / Data
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -62,9 +67,10 @@ abhinav = {
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white)
 
-### ☁️ Cloud & Tools
+### ☁️ Cloud & DevOps
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -76,16 +82,16 @@ abhinav = {
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 IntraBot — Domain Specific Chatbot</h3>
+      <h3>🤖 DocMind AI — Domain Specific Chatbot</h3>
       <p>An intelligent <strong>offline RAG chatbot</strong> for enterprise documents. Ask questions about your company policies in plain English.</p>
       <p>
         <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FAISS-0057A8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square"/>
         <img src="https://img.shields.io/badge/Ollama-333333?style=flat-square"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       </p>
       <p>✅ 100% Offline &nbsp; ✅ Zero Privacy Risk &nbsp; ✅ FastAPI Backend</p>
-      <a href="https://github.com/Abhinxvsharma/INTRABOT---Domain-Specific-Chatbot">
+      <a href="https://github.com/Abhinxvsharma/docmind-ai">
         <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
       </a>
     </td>
@@ -118,16 +124,16 @@ abhinav = {
       </a>
     </td>
     <td width="50%">
-      <h3>❤️ Heart Disease Prediction</h3>
-      <p>ML-powered <strong>real-time prediction system</strong> for heart disease risk using clinical parameters with FastAPI + Streamlit.</p>
+      <h3>🔜 More Projects Coming Soon...</h3>
+      <p>Currently building more <strong>AI/GenAI projects</strong> involving agents, advanced RAG, and real-world automation tools.</p>
       <p>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI_Agents-E91E63?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
-      <p>✅ Real-time Predictions &nbsp; ✅ Clinical Data</p>
-      <a href="https://github.com/Abhinxvsharma/heart-disease-prediction">
-        <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+      <p>🚧 In Progress &nbsp; 🔥 Stay Tuned</p>
+      <a href="https://github.com/Abhinxvsharma">
+        <img src="https://img.shields.io/badge/Follow_for_Updates-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
       </a>
     </td>
   </tr>
