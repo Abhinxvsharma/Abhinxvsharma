@@ -49,15 +49,13 @@ abhinav = {
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-5C6BC0?style=for-the-badge&logoColor=white)
 ![RNN](https://img.shields.io/badge/RNN/LSTM/GRU-7B1FA2?style=for-the-badge&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🐍 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🗃️ Databases & Query
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗃️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 ML / Data
@@ -73,7 +71,6 @@ abhinav = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -81,6 +78,20 @@ abhinav = {
 
 <table>
   <tr>
+    <td width="50%">
+      <h3>🏢 IntraBot — AI-Powered Internal Assistant</h3>
+      <p>A smart <strong>intranet chatbot</strong> that lets employees query internal knowledge bases, HR policies, and SOPs in natural language — no manual searching needed.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FAISS-0057A8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Ollama-333333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      </p>
+      <p>✅ RAG-Powered &nbsp; ✅ Offline & Secure &nbsp; ✅ FastAPI Backend</p>
+      <a href="https://github.com/Abhinxvsharma">
+        <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+      </a>
+    </td>
     <td width="50%">
       <h3>🤖 DocMind AI — Domain Specific Chatbot</h3>
       <p>An intelligent <strong>offline RAG chatbot</strong> for enterprise documents. Ask questions about your company policies in plain English.</p>
@@ -95,6 +106,21 @@ abhinav = {
         <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
       </a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💬 Sentiment Analysis</h3>
+      <p>Deep learning sentiment classifier on IMDB reviews using <strong>ANN, CNN, RNN, LSTM & GRU</strong> — Best accuracy: <strong>84.75%</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      </p>
+      <p>✅ 5 Model Architectures &nbsp; ✅ 84.75% GRU Accuracy</p>
+      <a href="https://github.com/Abhinxvsharma/Sentiment-Analysis-Project">
+        <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+      </a>
+    </td>
     <td width="50%">
       <h3>🎬 Movie Recommendation System</h3>
       <p>AI-powered recommendation engine using <strong>Content-Based Filtering</strong> with TF-IDF + Cosine Similarity on TMDB 5000 dataset.</p>
@@ -105,21 +131,6 @@ abhinav = {
       </p>
       <p>✅ TMDB Dataset &nbsp; ✅ Real-time Results &nbsp; ✅ Clean UI</p>
       <a href="https://github.com/Abhinxvsharma/Movie-Recommendation-System">
-        <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2">
-      <h3>💬 Sentiment Analysis</h3>
-      <p>Deep learning sentiment classifier on IMDB reviews using <strong>ANN, CNN, RNN, LSTM & GRU</strong> — Best accuracy: <strong>84.75%</strong></p>
-      <p>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-      </p>
-      <p>✅ 5 Model Architectures &nbsp; ✅ 84.75% GRU Accuracy</p>
-      <a href="https://github.com/Abhinxvsharma/Sentiment-Analysis-Project">
         <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
       </a>
     </td>
