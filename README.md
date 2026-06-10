@@ -79,29 +79,30 @@ abhinav = {
 <table>
   <tr>
     <td width="50%">
-      <h3>🏢 IntraBot — AI-Powered Internal Assistant</h3>
-      <p>A smart <strong>intranet chatbot</strong> that lets employees query internal knowledge bases, HR policies, and SOPs in natural language — no manual searching needed.</p>
+      <h3>🏢 IntraBot — Domain Specific Chatbot</h3>
+      <p>A <strong>domain-specific RAG chatbot</strong> for enterprise documents. Ask questions about your company policies in plain English. Built with Python, FastAPI, LangChain, FAISS & Ollama (offline). No hallucination. No cloud. Just your documents.</p>
       <p>
         <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white"/>
         <img src="https://img.shields.io/badge/FAISS-0057A8?style=flat-square"/>
         <img src="https://img.shields.io/badge/Ollama-333333?style=flat-square"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NiceGUI-4B8BBE?style=flat-square&logoColor=white"/>
       </p>
-      <p>✅ RAG-Powered &nbsp; ✅ Offline & Secure &nbsp; ✅ FastAPI Backend</p>
-      <a href="https://github.com/Abhinxvsharma">
+      <p>✅ 100% Offline &nbsp; ✅ No Hallucination &nbsp; ✅ FAISS Powered</p>
+      <a href="https://github.com/Abhinxvsharma/INTRABOT---Domain-Specific-Chatbot">
         <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
       </a>
     </td>
     <td width="50%">
       <h3>🤖 DocMind AI — Domain Specific Chatbot</h3>
-      <p>An intelligent <strong>offline RAG chatbot</strong> for enterprise documents. Ask questions about your company policies in plain English.</p>
+      <p>An <strong>AI-powered domain-specific PDF chatbot</strong> using RAG, LangChain, ChromaDB, FastAPI, and Ollama for private, context-aware document question answering.</p>
       <p>
         <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white"/>
         <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square"/>
         <img src="https://img.shields.io/badge/Ollama-333333?style=flat-square"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       </p>
-      <p>✅ 100% Offline &nbsp; ✅ Zero Privacy Risk &nbsp; ✅ FastAPI Backend</p>
+      <p>✅ PDF-Specific &nbsp; ✅ Context-Aware &nbsp; ✅ Zero Privacy Risk</p>
       <a href="https://github.com/Abhinxvsharma/docmind-ai">
         <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
       </a>
