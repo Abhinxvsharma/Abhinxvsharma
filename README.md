@@ -143,7 +143,7 @@ abhinav = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=Abhinxvsharma&theme=tokyonight&fire=DD2727" alt="GitHub Streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Abhinxvsharma&theme=tokyonight&hide_border=true&fire=DD2727" alt="GitHub Streak" />
 </p>
 
 ## 📈 Contribution Graph
