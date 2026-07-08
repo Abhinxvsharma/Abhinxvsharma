@@ -140,6 +140,12 @@ abhinav = {
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com/?user=Abhinxvsharma&theme=tokyonight&fire=DD2727" alt="GitHub Streak" />
+</p>
+
 ## 📈 Contribution Graph
 
 [![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhinxvsharma&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
