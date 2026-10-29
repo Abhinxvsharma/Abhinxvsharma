@@ -119,8 +119,6 @@ More public repositories:
 <div align="center">
   <a href="https://github.com/Abhinxvsharma"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhinxvsharma&theme=tokyonight" alt="GitHub stats for Abhinxvsharma" /></a>
   <a href="https://github.com/Abhinxvsharma"><img height="180" src="https://streak-stats.demolab.com/?user=Abhinxvsharma&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /></a>
-  <br />
-  <a href="https://github.com/Abhinxvsharma"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinxvsharma&theme=tokyonight" alt="Most used languages" /></a>
 </div>
 
 ---
