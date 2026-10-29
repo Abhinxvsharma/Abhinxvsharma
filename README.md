@@ -11,8 +11,6 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Open_to-GenAI_%2F_Data_Science_%2F_ML_roles-00D9FF?style=for-the-badge" alt="Open to Generative AI, Data Science and Machine Learning roles" />
-  <img src="https://img.shields.io/badge/Location-Punjab%2C_India-37474F?style=for-the-badge" alt="Punjab, India" />
   <img src="https://komarev.com/ghpvc/?username=Abhinxvsharma&label=Profile%20views&color=00D9FF&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -20,23 +18,19 @@
 
 ## About
 
-Python Developer Intern at **MindDMC**, Noida, an AI travel-tech company, working on an LLM evaluation platform (LLM-as-a-Judge) for a production AI itinerary agent, a B2B hotel-booking API integration in Django and a paid itinerary-design feature. B.Tech in Computer Science Engineering, class of 2026. Before MindDMC, six months of Generative AI training at CoderRoots, Mohali: RAG pipelines, LLM chatbots and machine-learning apps with FastAPI backends on AWS EC2 and S3.
+I build AI applications end to end: retrieval pipelines and LLM chatbots, the evaluation that checks whether an AI agent's answers are right, and the Python APIs and cloud setup that serve them. Most of my work is in Python with LangChain, FastAPI and Django, running on AWS.
 
-- Open to full-time roles in **Generative AI, Data Science and Machine Learning**
-- Day-to-day stack: Python, FastAPI, LangChain, RAG, LLM evaluation, Django, AWS
+- Day-to-day stack: Python, FastAPI, Django, LangChain, RAG, LLM evaluation, AWS
 - Reach me at [abhibede@gmail.com](mailto:abhibede@gmail.com) or on [LinkedIn](https://linkedin.com/in/abhinav-sharma-a73981382)
 
 ---
 
-## Current Work at MindDMC
+## What I Build
 
-The code lives in a private company repository, so there are no links here. What I have built since August 2026:
-
-- **LLM evaluation platform** in Python (FastAPI, SQLAlchemy, SQLite) that replays multi-turn test cases against the company's production AI itinerary agent over its SSE streaming API, with per-user login, run queues and 6 background workers. Deployed on AWS EC2 behind nginx over HTTPS for the team to use.
-- **LLM-as-a-Judge scoring** that returns 1-10 verdicts as structured JSON and checks them against the itinerary, hotel and activity rows the agent saved, which catches wrong star ratings, night counts and totals.
-- **ETG (RateHawk) B2B hotel-booking integration** in Django: Content API loaders, live search, booking with retry, order polling and cancellation behind 7 REST endpoints. All 5 mandatory supplier certification test cases passed.
-- **Paid itinerary-design feature**: 10 PDF designs an agency picks in account settings, sold as one-time purchases through Stripe Checkout, with the Django models, endpoints and tests behind it and the picker screen in the web app.
-- **SEO and site data**: the SEO team's on-page changes across 13 pages of the company website, plus destination pages and the XML sitemap now read from MongoDB.
+- **LLM evaluation**: harnesses that replay multi-turn conversations against AI agents over streaming APIs, with LLM-as-a-Judge scoring that returns structured JSON verdicts and checks them against the data the agent saved.
+- **RAG applications**: document ingestion, embeddings and vector search with FAISS and ChromaDB, answers tied to their source, and fully offline inference through Ollama when data has to stay private.
+- **Backend APIs and integrations**: FastAPI and Django REST services, third-party booking API integrations and Stripe Checkout payments, deployed on AWS EC2 behind nginx.
+- **Machine learning and deep learning**: TensorFlow and Keras models for NLP and scikit-learn recommenders, served through FastAPI with Streamlit dashboards.
 
 ---
 
@@ -80,7 +74,6 @@ The code lives in a private company repository, so there are no links here. What
 More public repositories:
 
 - [GenAI](https://github.com/Abhinxvsharma/GenAI): structured learning repo across Python, data science, ML, NLP, deep learning, FastAPI and LangChain, with RAG notebooks for ingestion and retrieval
-- [Gen-AI Teaching repo](https://github.com/Abhinxvsharma/Gen-AI---Teaching-repo): teaching Generative AI from Python basics to RAG
 - [heart-disease-prediction](https://github.com/Abhinxvsharma/heart-disease-prediction): machine-learning prediction with a FastAPI backend and a Streamlit front end
 - [tic-tac-toe-ai](https://github.com/Abhinxvsharma/tic-tac-toe-ai): Python and Pygame Tic Tac Toe with a Minimax opponent, random mode and PvP
 
@@ -91,7 +84,7 @@ More public repositories:
 <table>
   <tr>
     <td><b>Programming</b></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript_(Basic)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript (Basic)" /> <img src="https://img.shields.io/badge/SQL-37474F?style=for-the-badge" alt="SQL" /></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/SQL-37474F?style=for-the-badge" alt="SQL" /></td>
   </tr>
   <tr>
     <td><b>Generative AI</b></td>
@@ -107,7 +100,7 @@ More public repositories:
   </tr>
   <tr>
     <td><b>Backend &amp; APIs</b></td>
-    <td><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Django_(Basic)-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django (Basic)" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" /> <img src="https://img.shields.io/badge/REST_APIs-37474F?style=for-the-badge" alt="REST APIs" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></td>
+    <td><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" /> <img src="https://img.shields.io/badge/REST_APIs-37474F?style=for-the-badge" alt="REST APIs" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
@@ -118,34 +111,6 @@ More public repositories:
     <td><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge" alt="AWS EC2" /> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge" alt="AWS S3" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></td>
   </tr>
 </table>
-
----
-
-## Experience
-
-**Python Developer Intern, MindDMC, Noida** &nbsp;|&nbsp; Aug 2026 to present
-
-AI travel-tech company. The work covers the LLM evaluation platform and LLM-as-a-Judge scoring for the production itinerary agent, the ETG (RateHawk) hotel-booking integration in Django, the Stripe-sold itinerary-design feature and the SEO and MongoDB website changes described above.
-
-**Generative AI Intern, CoderRoots, Mohali** &nbsp;|&nbsp; Jan 2026 to Jun 2026
-
-- Built IntraBot, a fully offline RAG chatbot (LangChain, FAISS, Ollama, FastAPI, NiceGUI) answering questions across 100+ enterprise documents without data leaving the network
-- Wrote 3+ RAG pipelines covering document ingestion, vector embeddings and context-aware retrieval, and deployed FastAPI backends on AWS EC2 with S3 storage for several projects
-- Trained and compared 5+ deep-learning architectures on 50,000-sample NLP datasets; GRU performed best at 84.75% accuracy
-
----
-
-## Education and Certifications
-
-| Qualification | Institution | Period | Result |
-| --- | --- | --- | --- |
-| B.Tech, Computer Science Engineering | Rayat Bahra Professional University, Hoshiarpur | 2022 to 2026 | CGPA 7.1 |
-| 12th Grade (Non-Medical) | D.A.V. College, Hoshiarpur | 2020 to 2022 | 88.7% |
-
-| Certification | Issuer | Period | Reference |
-| --- | --- | --- | --- |
-| Generative AI and Data Science | CoderRoots, Mohali | Jan 2026 to Jun 2026 | CR/6MINT26/045 |
-| Core Java and Database with MySQL | Rayat Bahra Professional University | Jun 2024 to Jul 2024 | RBIENT/P/24/5 |
 
 ---
 
@@ -161,7 +126,6 @@ AI travel-tech company. The work covers the LLM evaluation platform and LLM-as-a
 ---
 
 <div align="center">
-  <p><b>Open to full-time Generative AI, Data Science and Machine Learning roles.</b></p>
   <p>
     <a href="mailto:abhibede@gmail.com"><img src="https://img.shields.io/badge/Email-abhibede%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email abhibede@gmail.com" /></a>
     <a href="https://linkedin.com/in/abhinav-sharma-a73981382"><img src="https://img.shields.io/badge/LinkedIn-Abhinav_Sharma-0A66C2?style=for-the-badge" alt="LinkedIn profile" /></a>
