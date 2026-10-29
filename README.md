@@ -20,7 +20,7 @@
 
 I build AI applications end to end: retrieval pipelines and LLM chatbots, the evaluation that checks whether an AI agent's answers are right, and the Python APIs and cloud setup that serve them. Most of my work is in Python with LangChain, FastAPI and Django, running on AWS.
 
-- Day-to-day stack: Python, FastAPI, Django, LangChain, RAG, LLM evaluation, AWS
+- Day-to-day stack: Python, FastAPI, LangChain, RAG, LLM evaluation, AWS
 - Reach me at [abhibede@gmail.com](mailto:abhibede@gmail.com) or on [LinkedIn](https://linkedin.com/in/abhinav-sharma-a73981382)
 
 ---
